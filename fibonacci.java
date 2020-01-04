@@ -9,7 +9,6 @@ static void fibonacci(int x){
             b = c;
             c = a + c;
             a = b;
-        }
     }
     
     public static void main(String[] args){
